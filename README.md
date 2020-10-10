@@ -1,6 +1,6 @@
 # HMM-Based-POS-Tagger-for-Hindi-Language
 
-`Part of Speech tagging in Indian Languages is still an open problem. We still lack a clear approach in implementing a POS tagger for Indian Languages.Here is a Hidden Markov Model based Part of Speech Tagger. POS tag set is used for the development of this tagger.`
+`Part of Speech tagging in Indian Languages is still an open problem. We still lack a clear approach in implementing a POS tagger for Indian Languages. Here is a Hidden Markov Model based Part of Speech Tagger. POS tag set is used for the development of this tagger.`
 
 `HMM(Hidden Markov Model) based POS Tagging in Hindi is done using Supervised and Unsupervised learning.`
 
